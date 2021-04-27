@@ -1,6 +1,6 @@
 # Spring Boot Testing Strategies
 
-http://localhost:8080/superheros/{id}
+http://localhost:8080/superheroes/{id}
 
 id in [1 - 4]
 
